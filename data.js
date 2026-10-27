@@ -346,6 +346,73 @@ window.CEDILLE_DATA = {
             explanation: "\"Je ne suis pas convaincu\" signals doubt, and the subjunctive \"soit\" softens the disagreement."
           }
         ]
+      },
+      C1: {
+        label: "DALF C1",
+        blurb: "Nuance, synthesis, and the register of an advanced user.",
+        questions: [
+          {
+            section: "Listening",
+            audio: "Bien que le projet ait été validé par le comité, plusieurs équipes restent réticentes.",
+            prompt: "What does the speaker imply?",
+            options: [
+              "The project is approved, but some teams are still reluctant",
+              "The committee rejected the project",
+              "Every team is ready to start"
+            ],
+            answer: 0,
+            explanation: "\"Bien que... restent réticentes\" concedes that the project is approved while noting continued reluctance."
+          },
+          {
+            section: "Reading",
+            context: "Le télétravail a bouleversé nos repères. Ce n'est pas tant la distance qui pose problème que l'absence de frontière entre vie professionnelle et vie privée. Les entreprises qui réussissent imposent des rituels clairs : horaires de coupure, espaces dédiés, droit à la déconnexion.",
+            prompt: "What is the author's main point?",
+            options: [
+              "Remote work is mainly a technical problem",
+              "Remote work needs deliberate boundaries to be sustainable",
+              "Companies should abandon remote work"
+            ],
+            answer: 1,
+            explanation: "The passage argues that the real difficulty is the missing boundary between work and private life, and that successful companies create clear rituals."
+          },
+          {
+            section: "Language",
+            prompt: "S'il avait suivi les consignes, il ___ terminé plus tôt.",
+            options: ["aurait", "avait", "serait"],
+            answer: 0,
+            explanation: "After \"si + plus-que-parfait\", use the conditional perfect: \"il aurait terminé\"."
+          },
+          {
+            section: "Language",
+            prompt: "Cette décision, ___ les conséquences soient difficiles à mesurer, reste nécessaire.",
+            options: ["bien que", "même si", "tandis que"],
+            answer: 0,
+            explanation: "\"Bien que\" takes the subjunctive: \"soient\". \"Même si\" would take the indicative, and \"tandis que\" does not express concession here."
+          },
+          {
+            section: "Writing",
+            prompt: "Which phrase best introduces a concession in a formal essay?",
+            options: [
+              "Certes, les résultats sont encourageants ; néanmoins, ils restent fragiles.",
+              "Du coup, les résultats sont encourageants, mais bon.",
+              "Franchement, les résultats sont encourageants, non ?"
+            ],
+            answer: 0,
+            explanation: "\"Certes... néanmoins\" is a formal concession-and-contrast pair. The other options are conversational."
+          },
+          {
+            section: "Listening",
+            audio: "Je crains que nous ne puissions pas respecter le délai initial.",
+            prompt: "What is the speaker worried about?",
+            options: [
+              "Missing the original deadline",
+              "Changing the initial budget",
+              "Hiring more staff"
+            ],
+            answer: 0,
+            explanation: "\"Respecter le délai initial\" means meet the original deadline. \"Je crains que\" triggers the subjunctive \"puissions\"."
+          }
+        ]
       }
     }
   },

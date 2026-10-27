@@ -753,7 +753,7 @@
       esc(bank.label) +
       "</span></div>" +
       '<div class="exam-grid"><div><section class="exam-hero"><p class="eyebrow light">Timed practice</p><div class="level-switch">' +
-      ["B1", "B2"]
+      ["B1", "B2", "C1"]
         .map(function (key) {
           return (
             '<button class="' +

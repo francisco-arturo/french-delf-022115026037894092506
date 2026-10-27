@@ -12,10 +12,10 @@
     {
       "id": "proto-001",
       "name": "Cedille mobile-first DELF/DALF study loop",
-      "description": "Build the seeded B1 learner experience: Today dashboard, two playable French lessons with vocabulary and browser audio, listening and usage questions with feedback, a timed six-question DELF B1/B2 exam sprint with scored review, a five-question level check, a progress view, and profile settings persisted in localStorage.",
+      "description": "Build the seeded B1 learner experience: Today dashboard, two playable French lessons with vocabulary and browser audio, listening and usage questions with feedback, a timed six-question DELF B1/B2 and DALF C1 exam sprint with scored review, a five-question level check, a progress view, and profile settings persisted in localStorage.",
       "status": "done",
       "dependencies": [],
-      "evidence": "node verify.mjs -> 97 checks passed, 0 failed. node smoke.mjs -> 24 checks passed, DOM smoke complete (lesson, exam, placement, progress, profile). powershell -ExecutionPolicy Bypass -File .\\init.ps1 -> 97 checks passed, 0 failed, exit 0. Local server http://127.0.0.1:5055/ -> 200.",
+      "evidence": "node verify.mjs -> 111 checks passed, 0 failed. node smoke.mjs -> 24 checks passed, DOM smoke complete (lesson, exam, placement, progress, profile). powershell -ExecutionPolicy Bypass -File .\\init.ps1 -> 111 checks passed, 0 failed, exit 0. Local server http://127.0.0.1:5055/ -> 200.",
       "done_criteria": [
         "Mobile-first dashboard is populated with seeded learner, streak, readiness, weekly minutes, path, and exam countdown",
         "At least two lessons are playable end to end with vocabulary, listening, answer feedback, and completion updates",

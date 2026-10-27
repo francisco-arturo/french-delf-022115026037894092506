@@ -6,7 +6,7 @@
 
 ## Current Objective
 
-A mobile-first DELF/DALF study MVP: seeded B1 dashboard, two playable French lessons with listening and vocabulary, timed B1/B2 exam sprints with scored review, a five-question level check, and a progress/profile layer on localStorage.
+A mobile-first DELF/DALF study MVP: seeded B1 dashboard, two playable French lessons with listening and vocabulary, timed B1/B2/C1 exam sprints with scored review, a five-question level check, and a progress/profile layer on localStorage.
 
 ## Recommended Next Step
 

@@ -15,7 +15,7 @@
 | 1 | Open the local URL | Seeded B1 learner dashboard: 6-day streak, 68/100 readiness, today's "At the market" lesson, exam countdown. |
 | 2 | Click "Start today's session" | Three-part lesson: four vocabulary cards with French audio, a listening question, and a usage quiz. |
 | 3 | Answer the listening question and check it | Immediate correct/incorrect feedback, transcript reveal, then a completion screen with XP and updated readiness. |
-| 4 | Click "Take a timed sprint" or open Exam studio | Six-question DELF B1 sprint with a five-minute clock, no hints, then a score, section breakdown, and answer review. |
+| 4 | Click "Take a timed sprint" or open Exam studio | Six-question DELF B1, B2, or DALF C1 sprint with a five-minute clock, no hints, then a score, section breakdown, and answer review. |
 | 5 | Open Path → "Check my level" | Five-question placement check and an A2/B1/B2 suggestion. |
 | 6 | Open Progress | Readiness trend, skill bars, weekly minutes, lesson and word totals, and exam history. |
 

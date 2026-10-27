@@ -81,7 +81,7 @@ if (data) {
     });
   });
 
-  ["B1", "B2"].forEach(function (level) {
+  ["B1", "B2", "C1"].forEach(function (level) {
     const bank = data.exam && data.exam.levels && data.exam.levels[level];
     check("exam bank " + level + " exists", Boolean(bank));
     if (!bank) return;

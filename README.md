@@ -12,7 +12,7 @@ The product promise is deliberately small: **one 18-minute session, one visible 
 
 - **Today** — a seeded B1 learner sees today's lesson, streak, weekly minutes, exam countdown, skill bars, and a clear readiness score.
 - **Lesson player** — two complete lessons (Café survival, At the market) with vocabulary cards, browser French audio, listening comprehension, answer feedback, and a completion summary that updates progress.
-- **Exam studio** — a five-minute, six-question timed sprint for DELF B1 or B2, covering listening, reading, language, and writing. The result shows a 0–100 score, section breakdown, answer review, and updates readiness.
+- **Exam studio** — a five-minute, six-question timed sprint for DELF B1, DELF B2, or DALF C1, covering listening, reading, language, and writing. The result shows a 0–100 score, section breakdown, answer review, and updates readiness.
 - **Level check** — a five-question placement flow with A2/B1/B2 suggestions and an honest note that the demo ships one full B1 path.
 - **Progress** — readiness trend, skill bars, weekly minutes, lesson and word totals, and exam history.
 - **Profile** — daily goal, exam date, reminder preference, level check, demo reset.
