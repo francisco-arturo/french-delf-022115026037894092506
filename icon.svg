@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="Cedille">
+  <rect width="512" height="512" rx="112" fill="#f3eee4"/>
+  <circle cx="256" cy="238" r="150" fill="#173f40"/>
+  <path d="M321 174a112 112 0 1 0 0 128" fill="none" stroke="#fbf8f1" stroke-width="27" stroke-linecap="round"/>
+  <path d="M256 350c0 35 18 55 46 55" fill="none" stroke="#d85f43" stroke-width="20" stroke-linecap="round"/>
+  <circle cx="352" cy="158" r="15" fill="#e4b25a"/>
+</svg>

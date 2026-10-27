@@ -1,0 +1,12 @@
+dev-server.mjs
+verify.mjs
+smoke.mjs
+README.md
+DEMO.md
+AGENTS.md
+feature_list.json
+progress.md
+session-handoff.md
+init.ps1
+init.sh
+.gitignore
