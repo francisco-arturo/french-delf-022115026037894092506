@@ -2,9 +2,9 @@
 
 **One sentence:** A mobile-first DELF/DALF study app that turns a short daily lesson and a timed exam sprint into one visible readiness score.
 
-- **Live URL:** pending approval. Planned host: `https://french-delf-022115026037894092506.vercel.app`
+- **Live URL:** https://french-delf-022115026037894092506.vercel.app
 - **Local fallback:** `node dev-server.mjs` → <http://127.0.0.1:5055>
-- **Deploy (after approval):** `node .harness/deploy.mjs french-delf-022115026037894092506` from the workspace root
+- **Deploy:** `node .harness/deploy.mjs french-delf-022115026037894092506` (from the workspace root)
 - **Verify:** `node verify.mjs` or `powershell -ExecutionPolicy Bypass -File .\init.ps1`
 - **Last verified:** 2026-10-27
 

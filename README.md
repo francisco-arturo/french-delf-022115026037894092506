@@ -1,5 +1,7 @@
 # Cedille
 
+**Live demo:** https://french-delf-022115026037894092506.vercel.app
+
 A mobile-first French study app for DELF and DALF candidates. One focused session a day, exam-style practice under the clock, and a readiness score that tells the learner what to do next.
 
 ## Product vision

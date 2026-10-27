@@ -2,18 +2,19 @@
 
 ## Last Updated
 
-- 2026-10-27 — Cedille MVP built, verified, and handed over locally.
+- 2026-10-27 — Cedille MVP built, verified, pushed, and deployed live.
 
 ## Current Objective
 
 A mobile-first DELF/DALF study MVP: seeded B1 dashboard, two playable French lessons with listening and vocabulary, timed B1/B2/C1 exam sprints with scored review, a five-question level check, and a progress/profile layer on localStorage.
 
+**Live:** https://french-delf-022115026037894092506.vercel.app  
+**Repository:** https://github.com/francisco-arturo/french-delf-022115026037894092506
+
 ## Recommended Next Step
 
-1. Review the running app at <http://127.0.0.1:5055> (port 4173 belongs to the event-booking prototype).
-2. If the build is approved, provide the GitHub repository URL, then push and deploy.
-3. After deployment, update the pending live URL in `DEMO.md` and verify the deployed route.
-4. For the next product slice, implement `proto-002` from `feature_list.json`.
+1. Send the proposal with the live URL and collect the client's reaction.
+2. For the next product slice, implement `proto-002` from `feature_list.json`.
 
 ## Files
 
@@ -22,7 +23,7 @@ A mobile-first DELF/DALF study MVP: seeded B1 dashboard, two playable French les
 - `data.js` — seeded learner, two lessons, B1/B2 question banks, placement questions.
 - `app.js` — hash routing, localStorage state, lesson player, exam timer/scoring, placement, progress, profile.
 - `dev-server.mjs` — local static preview on port 5055; excluded from deployment.
-- `verify.mjs` — 97-check static and HTTP verification.
+- `verify.mjs` — 111-check static and HTTP verification.
 - `smoke.mjs` — 24-check DOM-stub walkthrough of the main user flows.
 - `manifest.webmanifest`, `icon.svg` — installable mobile metadata.
 - `README.md` — product vision, scope, run and verification commands.
@@ -40,8 +41,8 @@ A mobile-first DELF/DALF study MVP: seeded B1 dashboard, two playable French les
 
 ## Blockers
 
-- No local-build blocker.
-- Push, deploy, and proposal are gated on user approval and a repository URL.
+- No current blocker.
+- Push, deploy, and the live URL are complete.
 - Headless screenshots were blocked by the agent sandbox; functional coverage is via `smoke.mjs`.
 
 ## Next Session
